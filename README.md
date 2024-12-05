@@ -17,7 +17,6 @@ This repository contains a Python-based project using OpenCV to track hand movem
 Hand Tracking Project/
 │
 ├── FingerImages/                # Directory containing example images
-├── __pycache__/                 # Folder with compiled Python files
 ├── images/                      # Additional resources and images
 ├── FingerCounter.py             # Application for finger counting
 ├── HandTrackingMin.py           # Minimal hand tracking demonstration
@@ -25,10 +24,9 @@ Hand Tracking Project/
 ├── Header-Files.zip             # Supporting resources in a zip archive
 ├── VirtualPainter.py            # Application for virtual painting
 ├── VolumeHandControl.py         # Application for volume control
-├── hello.py                     # Initial testing script
 ├── testcam.py                   # Script for testing webcam functionality
 └── README.md                    # Project documentation
-
+```
 ## Prerequisites
 
 Ensure you have the following installed:
